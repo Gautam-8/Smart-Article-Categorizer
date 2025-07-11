@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# Data & Models
+*.csv
+*.json
+*.jsonl
+*.joblib
+models/
+metrics/
+uploads/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
